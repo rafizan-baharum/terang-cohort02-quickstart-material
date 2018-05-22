@@ -1,2 +1,2 @@
 # terang-cohort02-quickstart-material
-Material
+TERANG Quickstart material
